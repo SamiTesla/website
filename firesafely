@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fire Safety Guide</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+        }
+
+        header {
+            text-align: center;
+            background-color: #f2f2f2;
+            padding: 10px;
+        }
+
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #333;
+            padding: 10px;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            padding: 10px;
+            margin: 0 10px;
+        }
+
+        section {
+            margin-top: 20px;
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Fire Safety Guide</h1>
+    </header>
+
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#prevention">Prevention</a>
+        <a href="#evacuation">Evacuation</a>
+        <a href="#equipment">Equipment</a>
+        <a href="#resources">Resources</a>
+    </nav>
+
+    <section id="home">
+        <h2>Welcome to the Fire Safety Guide</h2>
+        <p>This website provides essential information on fire safety to help you protect yourself and your loved ones.</p>
+    </section>
+
+    <section id="prevention">
+        <h2>Fire Prevention</h2>
+        <p>Learn how to prevent fires in your home and workplace.</p>
+        <!-- Add more content as needed -->
+    </section>
+
+    <section id="evacuation">
+        <h2>Evacuation Procedures</h2>
+        <p>Understand the steps to take during a fire emergency and how to evacuate safely.</p>
+        <!-- Add more content as needed -->
+    </section>
+
+    <section id="equipment">
+        <h2>Fire Safety Equipment</h2>
+        <p>Explore the types of fire safety equipment and how to use them effectively.</p>
+        <!-- Add more content as needed -->
+    </section>
+
+    <section id="resources">
+        <h2>Additional Resources</h2>
+        <p>Find useful links and resources for more in-depth information on fire safety.</p>
+        <!-- Add more content as needed -->
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Fire Safety Guide. All rights reserved.</p>
+    </footer>
+</body>
+
+</html>
